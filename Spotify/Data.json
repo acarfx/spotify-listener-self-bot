@@ -1,0 +1,3933 @@
+{
+    "items": [
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4aZ0gNozHDwTmpGQvjM1Hc"
+                },
+                "href": "https://api.spotify.com/v1/artists/4aZ0gNozHDwTmpGQvjM1Hc",
+                "id": "4aZ0gNozHDwTmpGQvjM1Hc",
+                "name": "Ömer Balık",
+                "type": "artist",
+                "uri": "spotify:artist:4aZ0gNozHDwTmpGQvjM1Hc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/0IixXSNUsBMj3w9mbiRi7a",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734eea4adbfc04048912053019",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024eea4adbfc04048912053019",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514eea4adbfc04048912053019",
+                "width": 64
+              }
+            ],
+            "name": "Goodbye",
+            "uri": "spotify:album:0IixXSNUsBMj3w9mbiRi7a"
+          },
+          "duration_ms": 202000,
+          "id": "2KbeCcarWaFJv90pSMDhxT",
+          "name": "Goodbye"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4aZ0gNozHDwTmpGQvjM1Hc"
+                },
+                "href": "https://api.spotify.com/v1/artists/4aZ0gNozHDwTmpGQvjM1Hc",
+                "id": "4aZ0gNozHDwTmpGQvjM1Hc",
+                "name": "Ömer Balık",
+                "type": "artist",
+                "uri": "spotify:artist:4aZ0gNozHDwTmpGQvjM1Hc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/4uKIrFQ8e1hMcQ5fv4gWWA",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273ccddab079263e3b3452a3fa4",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02ccddab079263e3b3452a3fa4",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851ccddab079263e3b3452a3fa4",
+                "width": 64
+              }
+            ],
+            "name": "Coffee Blues",
+            "uri": "spotify:album:4uKIrFQ8e1hMcQ5fv4gWWA"
+          },
+          "duration_ms": 220000,
+          "id": "1xlXvK3CtEGFttrOPijgCS",
+          "name": "Coffee Blues"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4aZ0gNozHDwTmpGQvjM1Hc"
+                },
+                "href": "https://api.spotify.com/v1/artists/4aZ0gNozHDwTmpGQvjM1Hc",
+                "id": "4aZ0gNozHDwTmpGQvjM1Hc",
+                "name": "Ömer Balık",
+                "type": "artist",
+                "uri": "spotify:artist:4aZ0gNozHDwTmpGQvjM1Hc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/23VW4jIIy9I2ronbOmBOIG",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f831b3df9b8267541d104ccc",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02f831b3df9b8267541d104ccc",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851f831b3df9b8267541d104ccc",
+                "width": 64
+              }
+            ],
+            "name": "THE Arrival",
+            "uri": "spotify:album:23VW4jIIy9I2ronbOmBOIG"
+          },
+          "duration_ms": 204042,
+          "id": "0Dy1Q2uUKII4asOHvexBn9",
+          "name": "All With Love"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4aZ0gNozHDwTmpGQvjM1Hc"
+                },
+                "href": "https://api.spotify.com/v1/artists/4aZ0gNozHDwTmpGQvjM1Hc",
+                "id": "4aZ0gNozHDwTmpGQvjM1Hc",
+                "name": "Ömer Balık",
+                "type": "artist",
+                "uri": "spotify:artist:4aZ0gNozHDwTmpGQvjM1Hc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/0lv2nJxom0zFsum6xkqDWF",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273cd42bf10e9ab9e253b1ea5fa",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02cd42bf10e9ab9e253b1ea5fa",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851cd42bf10e9ab9e253b1ea5fa",
+                "width": 64
+              }
+            ],
+            "name": "Last Time",
+            "uri": "spotify:album:0lv2nJxom0zFsum6xkqDWF"
+          },
+          "duration_ms": 210000,
+          "id": "6VmK90qPxCYXku3fpry4EI",
+          "name": "Last Time"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4aZ0gNozHDwTmpGQvjM1Hc"
+                },
+                "href": "https://api.spotify.com/v1/artists/4aZ0gNozHDwTmpGQvjM1Hc",
+                "id": "4aZ0gNozHDwTmpGQvjM1Hc",
+                "name": "Ömer Balık",
+                "type": "artist",
+                "uri": "spotify:artist:4aZ0gNozHDwTmpGQvjM1Hc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/3adaxoFEXVhEUQcgYJRXXF",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2736159efe7630b178419459315",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e026159efe7630b178419459315",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048516159efe7630b178419459315",
+                "width": 64
+              }
+            ],
+            "name": "Chicago Downtown",
+            "uri": "spotify:album:3adaxoFEXVhEUQcgYJRXXF"
+          },
+          "duration_ms": 266000,
+          "id": "4ZNUqP2E1MfUEJYYmhwOe6",
+          "name": "Chicago Downtown"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4aZ0gNozHDwTmpGQvjM1Hc"
+                },
+                "href": "https://api.spotify.com/v1/artists/4aZ0gNozHDwTmpGQvjM1Hc",
+                "id": "4aZ0gNozHDwTmpGQvjM1Hc",
+                "name": "Ömer Balık",
+                "type": "artist",
+                "uri": "spotify:artist:4aZ0gNozHDwTmpGQvjM1Hc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/23VW4jIIy9I2ronbOmBOIG",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f831b3df9b8267541d104ccc",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02f831b3df9b8267541d104ccc",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851f831b3df9b8267541d104ccc",
+                "width": 64
+              }
+            ],
+            "name": "THE Arrival",
+            "uri": "spotify:album:23VW4jIIy9I2ronbOmBOIG"
+          },
+          "duration_ms": 192026,
+          "id": "01et2hCsYyQ6YZ1PT8c6dU",
+          "name": "You Got Me"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4aZ0gNozHDwTmpGQvjM1Hc"
+                },
+                "href": "https://api.spotify.com/v1/artists/4aZ0gNozHDwTmpGQvjM1Hc",
+                "id": "4aZ0gNozHDwTmpGQvjM1Hc",
+                "name": "Ömer Balık",
+                "type": "artist",
+                "uri": "spotify:artist:4aZ0gNozHDwTmpGQvjM1Hc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/0HHHAdHZ2nR3GOtvLsRqHO",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731c48eaee135dcf602780116e",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e021c48eaee135dcf602780116e",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048511c48eaee135dcf602780116e",
+                "width": 64
+              }
+            ],
+            "name": "Midnight Troubles",
+            "uri": "spotify:album:0HHHAdHZ2nR3GOtvLsRqHO"
+          },
+          "duration_ms": 238000,
+          "id": "29k91B2CDV5wdvAzQ01BOs",
+          "name": "Midnight Troubles"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+                },
+                "href": "https://api.spotify.com/v1/artists/4IzsCody9kpNcm6FKl459I",
+                "id": "4IzsCody9kpNcm6FKl459I",
+                "name": "Furkan Sert",
+                "type": "artist",
+                "uri": "spotify:artist:4IzsCody9kpNcm6FKl459I"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi"
+                },
+                "href": "https://api.spotify.com/v1/artists/7hdMO5XGg4Dgy0hVYA9BIi",
+                "id": "7hdMO5XGg4Dgy0hVYA9BIi",
+                "name": "Elnur Mikayilov",
+                "type": "artist",
+                "uri": "spotify:artist:7hdMO5XGg4Dgy0hVYA9BIi"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/0aEauJP7jXHDBkdibASYlU",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27390d003d0b37761206d0bfada",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0290d003d0b37761206d0bfada",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485190d003d0b37761206d0bfada",
+                "width": 64
+              }
+            ],
+            "name": "Alone",
+            "uri": "spotify:album:0aEauJP7jXHDBkdibASYlU"
+          },
+          "duration_ms": 225226,
+          "id": "6h8NuIBrwMcXkoLZNPqCzt",
+          "name": "Alone"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4aZ0gNozHDwTmpGQvjM1Hc"
+                },
+                "href": "https://api.spotify.com/v1/artists/4aZ0gNozHDwTmpGQvjM1Hc",
+                "id": "4aZ0gNozHDwTmpGQvjM1Hc",
+                "name": "Ömer Balık",
+                "type": "artist",
+                "uri": "spotify:artist:4aZ0gNozHDwTmpGQvjM1Hc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/2Up8sHDO2fFoNJaa8V2UFF",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2738fbb87f2c140a1225dbc4b55",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e028fbb87f2c140a1225dbc4b55",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048518fbb87f2c140a1225dbc4b55",
+                "width": 64
+              }
+            ],
+            "name": "November 9",
+            "uri": "spotify:album:2Up8sHDO2fFoNJaa8V2UFF"
+          },
+          "duration_ms": 194000,
+          "id": "4c3mhFGmiMvhIbWLop2u5j",
+          "name": "November 9"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2zOTxRKSncCCTHLxwRfuMY"
+                },
+                "href": "https://api.spotify.com/v1/artists/2zOTxRKSncCCTHLxwRfuMY",
+                "id": "2zOTxRKSncCCTHLxwRfuMY",
+                "name": "Den Ze",
+                "type": "artist",
+                "uri": "spotify:artist:2zOTxRKSncCCTHLxwRfuMY"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1eeh7aqCuDjuEvPXhQSF1h"
+                },
+                "href": "https://api.spotify.com/v1/artists/1eeh7aqCuDjuEvPXhQSF1h",
+                "id": "1eeh7aqCuDjuEvPXhQSF1h",
+                "name": "Majnoon",
+                "type": "artist",
+                "uri": "spotify:artist:1eeh7aqCuDjuEvPXhQSF1h"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2k4bQt7eQsigiUFsT9VLGK"
+                },
+                "href": "https://api.spotify.com/v1/artists/2k4bQt7eQsigiUFsT9VLGK",
+                "id": "2k4bQt7eQsigiUFsT9VLGK",
+                "name": "Serdar Ayyıldız",
+                "type": "artist",
+                "uri": "spotify:artist:2k4bQt7eQsigiUFsT9VLGK"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/6m9dXANR6UqvJCSduAqUsw",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273be7c6a59eb2611249d734bcf",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02be7c6a59eb2611249d734bcf",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851be7c6a59eb2611249d734bcf",
+                "width": 64
+              }
+            ],
+            "name": "Neylerim (Serdar AYYILDIZ Remix)",
+            "uri": "spotify:album:6m9dXANR6UqvJCSduAqUsw"
+          },
+          "duration_ms": 432000,
+          "id": "736QRPm2tSeA0J65dfsdwM",
+          "name": "Neylerim - Serdar AYYILDIZ Remix"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3fZHMcWjSIAF5ma627trp1"
+                },
+                "href": "https://api.spotify.com/v1/artists/3fZHMcWjSIAF5ma627trp1",
+                "id": "3fZHMcWjSIAF5ma627trp1",
+                "name": "Sarah Blasko",
+                "type": "artist",
+                "uri": "spotify:artist:3fZHMcWjSIAF5ma627trp1"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0YFbuIzBUfAK1FqcEvxnqQ"
+                },
+                "href": "https://api.spotify.com/v1/artists/0YFbuIzBUfAK1FqcEvxnqQ",
+                "id": "0YFbuIzBUfAK1FqcEvxnqQ",
+                "name": "Edmofo",
+                "type": "artist",
+                "uri": "spotify:artist:0YFbuIzBUfAK1FqcEvxnqQ"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/1yS8tDy4LxPyodDN4zck2x",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2733ee6e226671111f9c7eb97fa",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e023ee6e226671111f9c7eb97fa",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048513ee6e226671111f9c7eb97fa",
+                "width": 64
+              }
+            ],
+            "name": "All I Want",
+            "uri": "spotify:album:1yS8tDy4LxPyodDN4zck2x"
+          },
+          "duration_ms": 195866,
+          "id": "0fhuc2lCn9Uqk9DZTGlXfK",
+          "name": "All I Want"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0YFbuIzBUfAK1FqcEvxnqQ"
+                },
+                "href": "https://api.spotify.com/v1/artists/0YFbuIzBUfAK1FqcEvxnqQ",
+                "id": "0YFbuIzBUfAK1FqcEvxnqQ",
+                "name": "Edmofo",
+                "type": "artist",
+                "uri": "spotify:artist:0YFbuIzBUfAK1FqcEvxnqQ"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/3cDVDVpCVW5fDJsLqspMLP",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273350411793b4afd3eb229ad28",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02350411793b4afd3eb229ad28",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851350411793b4afd3eb229ad28",
+                "width": 64
+              }
+            ],
+            "name": "Doudou",
+            "uri": "spotify:album:3cDVDVpCVW5fDJsLqspMLP"
+          },
+          "duration_ms": 154624,
+          "id": "6kZPjOiVpXltkQrbUT6F1U",
+          "name": "Doudou"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt"
+                },
+                "href": "https://api.spotify.com/v1/artists/3tSmEw5WMGAZ6sxt9Dt3Nt",
+                "id": "3tSmEw5WMGAZ6sxt9Dt3Nt",
+                "name": "Otnicka",
+                "type": "artist",
+                "uri": "spotify:artist:3tSmEw5WMGAZ6sxt9Dt3Nt"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/0EixkKc9hbZ70EwWYmSpUb",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27397145d58e2fac4745f904dbc",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0297145d58e2fac4745f904dbc",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485197145d58e2fac4745f904dbc",
+                "width": 64
+              }
+            ],
+            "name": "Memories",
+            "uri": "spotify:album:0EixkKc9hbZ70EwWYmSpUb"
+          },
+          "duration_ms": 180833,
+          "id": "2RX7wNObwVnezTZksKqmC1",
+          "name": "Memories"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4aZ0gNozHDwTmpGQvjM1Hc"
+                },
+                "href": "https://api.spotify.com/v1/artists/4aZ0gNozHDwTmpGQvjM1Hc",
+                "id": "4aZ0gNozHDwTmpGQvjM1Hc",
+                "name": "Ömer Balık",
+                "type": "artist",
+                "uri": "spotify:artist:4aZ0gNozHDwTmpGQvjM1Hc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/6i06XFiNHX5ba9zKRDejbi",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2737b78f3bc8bc2537ec6785850",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e027b78f3bc8bc2537ec6785850",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048517b78f3bc8bc2537ec6785850",
+                "width": 64
+              }
+            ],
+            "name": "Numb",
+            "uri": "spotify:album:6i06XFiNHX5ba9zKRDejbi"
+          },
+          "duration_ms": 198000,
+          "id": "1e4YA8B2rM6PdLum9rw5pc",
+          "name": "Numb"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4aZ0gNozHDwTmpGQvjM1Hc"
+                },
+                "href": "https://api.spotify.com/v1/artists/4aZ0gNozHDwTmpGQvjM1Hc",
+                "id": "4aZ0gNozHDwTmpGQvjM1Hc",
+                "name": "Ömer Balık",
+                "type": "artist",
+                "uri": "spotify:artist:4aZ0gNozHDwTmpGQvjM1Hc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/2TV6e47FEz1JifqNekTXwk",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2738d250759ae7ba6797b9e0d16",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e028d250759ae7ba6797b9e0d16",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048518d250759ae7ba6797b9e0d16",
+                "width": 64
+              }
+            ],
+            "name": "Sad Disco Balls",
+            "uri": "spotify:album:2TV6e47FEz1JifqNekTXwk"
+          },
+          "duration_ms": 246000,
+          "id": "3UXf8EP6CmWmBeE00l74o9",
+          "name": "Sad Disco Balls"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+                },
+                "href": "https://api.spotify.com/v1/artists/4IzsCody9kpNcm6FKl459I",
+                "id": "4IzsCody9kpNcm6FKl459I",
+                "name": "Furkan Sert",
+                "type": "artist",
+                "uri": "spotify:artist:4IzsCody9kpNcm6FKl459I"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi"
+                },
+                "href": "https://api.spotify.com/v1/artists/7hdMO5XGg4Dgy0hVYA9BIi",
+                "id": "7hdMO5XGg4Dgy0hVYA9BIi",
+                "name": "Elnur Mikayilov",
+                "type": "artist",
+                "uri": "spotify:artist:7hdMO5XGg4Dgy0hVYA9BIi"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/4IxhfM346My9JAO1ue5esg",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27348afe10ad30bee5036cedd23",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0248afe10ad30bee5036cedd23",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485148afe10ad30bee5036cedd23",
+                "width": 64
+              }
+            ],
+            "name": "Sad",
+            "uri": "spotify:album:4IxhfM346My9JAO1ue5esg"
+          },
+          "duration_ms": 199250,
+          "id": "3J5rWdL10nRlpP0TVXjhea",
+          "name": "Sad"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+                },
+                "href": "https://api.spotify.com/v1/artists/4IzsCody9kpNcm6FKl459I",
+                "id": "4IzsCody9kpNcm6FKl459I",
+                "name": "Furkan Sert",
+                "type": "artist",
+                "uri": "spotify:artist:4IzsCody9kpNcm6FKl459I"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd"
+                },
+                "href": "https://api.spotify.com/v1/artists/7e1qaOeopeICYAXL2UwzYd",
+                "id": "7e1qaOeopeICYAXL2UwzYd",
+                "name": "Dj Iljano",
+                "type": "artist",
+                "uri": "spotify:artist:7e1qaOeopeICYAXL2UwzYd"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/4diPOadiw13OpOGZ1InJk2",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273c2bbaad98ddcf7b7dc83e3e2",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02c2bbaad98ddcf7b7dc83e3e2",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851c2bbaad98ddcf7b7dc83e3e2",
+                "width": 64
+              }
+            ],
+            "name": "Cry",
+            "uri": "spotify:album:4diPOadiw13OpOGZ1InJk2"
+          },
+          "duration_ms": 200000,
+          "id": "0dNzSDc24MGkN9sDim1d7b",
+          "name": "Cry"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4aZ0gNozHDwTmpGQvjM1Hc"
+                },
+                "href": "https://api.spotify.com/v1/artists/4aZ0gNozHDwTmpGQvjM1Hc",
+                "id": "4aZ0gNozHDwTmpGQvjM1Hc",
+                "name": "Ömer Balık",
+                "type": "artist",
+                "uri": "spotify:artist:4aZ0gNozHDwTmpGQvjM1Hc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/41K5kqxcfkD58uzn7YxHs0",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2730310c0ae311f68fd9367617a",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e020310c0ae311f68fd9367617a",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048510310c0ae311f68fd9367617a",
+                "width": 64
+              }
+            ],
+            "name": "Night Shift",
+            "uri": "spotify:album:41K5kqxcfkD58uzn7YxHs0"
+          },
+          "duration_ms": 204000,
+          "id": "5i4D0cW01AFn0o6KtaJYeG",
+          "name": "Night Shift"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6RH3NsA6c7yQiRVmWwY5GB"
+                },
+                "href": "https://api.spotify.com/v1/artists/6RH3NsA6c7yQiRVmWwY5GB",
+                "id": "6RH3NsA6c7yQiRVmWwY5GB",
+                "name": "Albin Hasani",
+                "type": "artist",
+                "uri": "spotify:artist:6RH3NsA6c7yQiRVmWwY5GB"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/75iQNv95802cKeYhO99z6b",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273fa2beb346ce7af17561c99f6",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02fa2beb346ce7af17561c99f6",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851fa2beb346ce7af17561c99f6",
+                "width": 64
+              }
+            ],
+            "name": "22",
+            "uri": "spotify:album:75iQNv95802cKeYhO99z6b"
+          },
+          "duration_ms": 181176,
+          "id": "2xrvulrWkTl2nlWXrPhYtA",
+          "name": "Durdurun Dünyayı (ToldorTunes Remix)"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg"
+                },
+                "href": "https://api.spotify.com/v1/artists/2bHWbDN72wdIF0Y48669zg",
+                "id": "2bHWbDN72wdIF0Y48669zg",
+                "name": "DJ Goja",
+                "type": "artist",
+                "uri": "spotify:artist:2bHWbDN72wdIF0Y48669zg"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/0KDg2ZIVpEgKpRxF0Dett6",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273210d0d05e0d315af14b19651",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02210d0d05e0d315af14b19651",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851210d0d05e0d315af14b19651",
+                "width": 64
+              }
+            ],
+            "name": "Wrong Way",
+            "uri": "spotify:album:0KDg2ZIVpEgKpRxF0Dett6"
+          },
+          "duration_ms": 161517,
+          "id": "0fvgtLRU2cdnTJRLUL6JVG",
+          "name": "Wrong Way"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4gZjxNhQZSRuoQXj4ErY8G"
+                },
+                "href": "https://api.spotify.com/v1/artists/4gZjxNhQZSRuoQXj4ErY8G",
+                "id": "4gZjxNhQZSRuoQXj4ErY8G",
+                "name": "25m2",
+                "type": "artist",
+                "uri": "spotify:artist:4gZjxNhQZSRuoQXj4ErY8G"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/3pfPtlbeWpYD4Ynu5GJdn1",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27341ce8a2d5a7a51a72ec66b69",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0241ce8a2d5a7a51a72ec66b69",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485141ce8a2d5a7a51a72ec66b69",
+                "width": 64
+              }
+            ],
+            "name": "Seyyah",
+            "uri": "spotify:album:3pfPtlbeWpYD4Ynu5GJdn1"
+          },
+          "duration_ms": 197066,
+          "id": "3yhWw4fkyf9n03mGxAcG2R",
+          "name": "Seyyah"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+                },
+                "href": "https://api.spotify.com/v1/artists/3t8WiyalpvnB9AObcMufiE",
+                "id": "3t8WiyalpvnB9AObcMufiE",
+                "name": "Mahmut Orhan",
+                "type": "artist",
+                "uri": "spotify:artist:3t8WiyalpvnB9AObcMufiE"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7CW2eGwAuElNq09rVtZYsM"
+                },
+                "href": "https://api.spotify.com/v1/artists/7CW2eGwAuElNq09rVtZYsM",
+                "id": "7CW2eGwAuElNq09rVtZYsM",
+                "name": "Sena Şener",
+                "type": "artist",
+                "uri": "spotify:artist:7CW2eGwAuElNq09rVtZYsM"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2ED63WRqQy3JVKxObINvyI"
+                },
+                "href": "https://api.spotify.com/v1/artists/2ED63WRqQy3JVKxObINvyI",
+                "id": "2ED63WRqQy3JVKxObINvyI",
+                "name": "Mert Oksuz",
+                "type": "artist",
+                "uri": "spotify:artist:2ED63WRqQy3JVKxObINvyI"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/1I4qu7x9rCuUtkQjlnUWRr",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a91ca3e9a2cff98121c5a312",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02a91ca3e9a2cff98121c5a312",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851a91ca3e9a2cff98121c5a312",
+                "width": 64
+              }
+            ],
+            "name": "Fly Above (Mert Oksuz Remix)",
+            "uri": "spotify:album:1I4qu7x9rCuUtkQjlnUWRr"
+          },
+          "duration_ms": 200691,
+          "id": "16JYKu8Yq4r8bG28Ty3wS3",
+          "name": "Fly Above - Mert Oksuz Remix"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6mUE3o2tO8ZjnNqqziJp9F"
+                },
+                "href": "https://api.spotify.com/v1/artists/6mUE3o2tO8ZjnNqqziJp9F",
+                "id": "6mUE3o2tO8ZjnNqqziJp9F",
+                "name": "Roudeep",
+                "type": "artist",
+                "uri": "spotify:artist:6mUE3o2tO8ZjnNqqziJp9F"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/2wvRtX74XypvXuV8VOCppa",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273faa4dd1f099a4c8312dfbe9d",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02faa4dd1f099a4c8312dfbe9d",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851faa4dd1f099a4c8312dfbe9d",
+                "width": 64
+              }
+            ],
+            "name": "Where Are You Now",
+            "uri": "spotify:album:2wvRtX74XypvXuV8VOCppa"
+          },
+          "duration_ms": 240000,
+          "id": "24uywHaaWujxeWSJxiISz2",
+          "name": "Where Are You Now"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4bgAwdGd0zZ2U42GkdRS1b"
+                },
+                "href": "https://api.spotify.com/v1/artists/4bgAwdGd0zZ2U42GkdRS1b",
+                "id": "4bgAwdGd0zZ2U42GkdRS1b",
+                "name": "Ayda",
+                "type": "artist",
+                "uri": "spotify:artist:4bgAwdGd0zZ2U42GkdRS1b"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5Jwz2Uzhk06OKiiUwngnyW"
+                },
+                "href": "https://api.spotify.com/v1/artists/5Jwz2Uzhk06OKiiUwngnyW",
+                "id": "5Jwz2Uzhk06OKiiUwngnyW",
+                "name": "Jay Aliyev",
+                "type": "artist",
+                "uri": "spotify:artist:5Jwz2Uzhk06OKiiUwngnyW"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/212jJSXxybLnHDRfQ8O7n9",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273509afb638f0de15e23675057",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02509afb638f0de15e23675057",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851509afb638f0de15e23675057",
+                "width": 64
+              }
+            ],
+            "name": "Son Durak (Remix)",
+            "uri": "spotify:album:212jJSXxybLnHDRfQ8O7n9"
+          },
+          "duration_ms": 240278,
+          "id": "4l3peZfOD1G0imkHn0noFx",
+          "name": "Son Durak (Remix)"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5cYodhg1fZFGKqCQmgNlZf"
+                },
+                "href": "https://api.spotify.com/v1/artists/5cYodhg1fZFGKqCQmgNlZf",
+                "id": "5cYodhg1fZFGKqCQmgNlZf",
+                "name": "Tuğçe Kurtiş",
+                "type": "artist",
+                "uri": "spotify:artist:5cYodhg1fZFGKqCQmgNlZf"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5h34bjddVhYHHZnBuEjGkU"
+                },
+                "href": "https://api.spotify.com/v1/artists/5h34bjddVhYHHZnBuEjGkU",
+                "id": "5h34bjddVhYHHZnBuEjGkU",
+                "name": "Santi",
+                "type": "artist",
+                "uri": "spotify:artist:5h34bjddVhYHHZnBuEjGkU"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+                },
+                "href": "https://api.spotify.com/v1/artists/437O1jQdyOOhIS1M41xQaC",
+                "id": "437O1jQdyOOhIS1M41xQaC",
+                "name": "Santi & Tuğçe",
+                "type": "artist",
+                "uri": "spotify:artist:437O1jQdyOOhIS1M41xQaC"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/39Z3F5JtCMmq7FtPhvugkr",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2738c311b91dc923c048a4de7dd",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e028c311b91dc923c048a4de7dd",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048518c311b91dc923c048a4de7dd",
+                "width": 64
+              }
+            ],
+            "name": "Yıldızların Altında",
+            "uri": "spotify:album:39Z3F5JtCMmq7FtPhvugkr"
+          },
+          "duration_ms": 486186,
+          "id": "23eVbpdc9JveymIxlLGSt0",
+          "name": "Yıldızların Altında - Anatolian Sessions Remix"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/13RGY36nTZw0ezEedQp7rs"
+                },
+                "href": "https://api.spotify.com/v1/artists/13RGY36nTZw0ezEedQp7rs",
+                "id": "13RGY36nTZw0ezEedQp7rs",
+                "name": "Ömer Bükülmezoğlu",
+                "type": "artist",
+                "uri": "spotify:artist:13RGY36nTZw0ezEedQp7rs"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/181QhrPmLHRPrbj0sU230f",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2733b120a508ba9ab83ee87d565",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e023b120a508ba9ab83ee87d565",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048513b120a508ba9ab83ee87d565",
+                "width": 64
+              }
+            ],
+            "name": "Feel Love",
+            "uri": "spotify:album:181QhrPmLHRPrbj0sU230f"
+          },
+          "duration_ms": 309993,
+          "id": "4ixsDUpC964ewaGv7185qm",
+          "name": "Feel Love"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+                },
+                "href": "https://api.spotify.com/v1/artists/0ZRQKFaYGEtbLc8NbyICoe",
+                "id": "0ZRQKFaYGEtbLc8NbyICoe",
+                "name": "Deeperise",
+                "type": "artist",
+                "uri": "spotify:artist:0ZRQKFaYGEtbLc8NbyICoe"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5bXGHYmmARo1ixC6mGHIge"
+                },
+                "href": "https://api.spotify.com/v1/artists/5bXGHYmmARo1ixC6mGHIge",
+                "id": "5bXGHYmmARo1ixC6mGHIge",
+                "name": "Kanita",
+                "type": "artist",
+                "uri": "spotify:artist:5bXGHYmmARo1ixC6mGHIge"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/5NdBszLrgcaFiq5sjr3vgJ",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27387366a6cd65b3dc0e55334dc",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0287366a6cd65b3dc0e55334dc",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485187366a6cd65b3dc0e55334dc",
+                "width": 64
+              }
+            ],
+            "name": "Follow You",
+            "uri": "spotify:album:5NdBszLrgcaFiq5sjr3vgJ"
+          },
+          "duration_ms": 178909,
+          "id": "5zKRmc6gTge68PS5EqagXG",
+          "name": "Follow You"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz"
+                },
+                "href": "https://api.spotify.com/v1/artists/5JIgApvXvqq4KtnDLE9YBz",
+                "id": "5JIgApvXvqq4KtnDLE9YBz",
+                "name": "Demeter",
+                "type": "artist",
+                "uri": "spotify:artist:5JIgApvXvqq4KtnDLE9YBz"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/0n5D06Koo6tfEnMJRgAYnn",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d22482cfcedb7f5a7d02772a",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02d22482cfcedb7f5a7d02772a",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851d22482cfcedb7f5a7d02772a",
+                "width": 64
+              }
+            ],
+            "name": "Utopia",
+            "uri": "spotify:album:0n5D06Koo6tfEnMJRgAYnn"
+          },
+          "duration_ms": 228713,
+          "id": "3aacCkE5NPkPRpuRBA5clc",
+          "name": "Utopia"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3G5xL8UA1bD6a2i4o1AvwF"
+                },
+                "href": "https://api.spotify.com/v1/artists/3G5xL8UA1bD6a2i4o1AvwF",
+                "id": "3G5xL8UA1bD6a2i4o1AvwF",
+                "name": "Hiss",
+                "type": "artist",
+                "uri": "spotify:artist:3G5xL8UA1bD6a2i4o1AvwF"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/2MsDpe6i0ZJidxsiKM9YvQ",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a8849b710a25d33c01d4b205",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02a8849b710a25d33c01d4b205",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851a8849b710a25d33c01d4b205",
+                "width": 64
+              }
+            ],
+            "name": "Kəpənəklər",
+            "uri": "spotify:album:2MsDpe6i0ZJidxsiKM9YvQ"
+          },
+          "duration_ms": 218606,
+          "id": "7HIAS84eWLav4z7pXuoFsF",
+          "name": "Kəpənəklər"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5Jwz2Uzhk06OKiiUwngnyW"
+                },
+                "href": "https://api.spotify.com/v1/artists/5Jwz2Uzhk06OKiiUwngnyW",
+                "id": "5Jwz2Uzhk06OKiiUwngnyW",
+                "name": "Jay Aliyev",
+                "type": "artist",
+                "uri": "spotify:artist:5Jwz2Uzhk06OKiiUwngnyW"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/0xBxH806kfeUQDiukjawh3",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2733e2a043efe48716d953c1e07",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e023e2a043efe48716d953c1e07",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048513e2a043efe48716d953c1e07",
+                "width": 64
+              }
+            ],
+            "name": "Together",
+            "uri": "spotify:album:0xBxH806kfeUQDiukjawh3"
+          },
+          "duration_ms": 229524,
+          "id": "2RuYfjedS5DW26ejCu5nZC",
+          "name": "Together"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5Jwz2Uzhk06OKiiUwngnyW"
+                },
+                "href": "https://api.spotify.com/v1/artists/5Jwz2Uzhk06OKiiUwngnyW",
+                "id": "5Jwz2Uzhk06OKiiUwngnyW",
+                "name": "Jay Aliyev",
+                "type": "artist",
+                "uri": "spotify:artist:5Jwz2Uzhk06OKiiUwngnyW"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/4dtEKQYcAgPLSWEWDx5eop",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273ce9fa780fd2dacb7077b8fd1",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02ce9fa780fd2dacb7077b8fd1",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851ce9fa780fd2dacb7077b8fd1",
+                "width": 64
+              }
+            ],
+            "name": "Show You",
+            "uri": "spotify:album:4dtEKQYcAgPLSWEWDx5eop"
+          },
+          "duration_ms": 204018,
+          "id": "1UxWLxW7hjtlgeuJsklLp8",
+          "name": "Show You - I Can High 2nd Edit)"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4aZ0gNozHDwTmpGQvjM1Hc"
+                },
+                "href": "https://api.spotify.com/v1/artists/4aZ0gNozHDwTmpGQvjM1Hc",
+                "id": "4aZ0gNozHDwTmpGQvjM1Hc",
+                "name": "Ömer Balık",
+                "type": "artist",
+                "uri": "spotify:artist:4aZ0gNozHDwTmpGQvjM1Hc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/2eyGWWA48YegarL6vD0iaT",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2735a65fc369f62fbef820fe714",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e025a65fc369f62fbef820fe714",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048515a65fc369f62fbef820fe714",
+                "width": 64
+              }
+            ],
+            "name": "Nehir (Aleyna Tilki)",
+            "uri": "spotify:album:2eyGWWA48YegarL6vD0iaT"
+          },
+          "duration_ms": 188000,
+          "id": "4uFT1X0Sxk3mn63y1w7HpE",
+          "name": "Nehir (Aleyna Tilki)"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/57rQZpIPdlavJHPyiIckCy"
+                },
+                "href": "https://api.spotify.com/v1/artists/57rQZpIPdlavJHPyiIckCy",
+                "id": "57rQZpIPdlavJHPyiIckCy",
+                "name": "Aybüke Poçan",
+                "type": "artist",
+                "uri": "spotify:artist:57rQZpIPdlavJHPyiIckCy"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/6LtxuHFwFzC0ARCpw3PewT",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d27b446cb2e84599d0ded03c",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02d27b446cb2e84599d0ded03c",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851d27b446cb2e84599d0ded03c",
+                "width": 64
+              }
+            ],
+            "name": "Kaybet Benimle (Yüksel Ürer Remix)",
+            "uri": "spotify:album:6LtxuHFwFzC0ARCpw3PewT"
+          },
+          "duration_ms": 225312,
+          "id": "2jPJM2WVyV5BL8x3naOgtT",
+          "name": "Kaybet Benimle - Yüksel Ürer Remix"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+                },
+                "href": "https://api.spotify.com/v1/artists/4nkuNzBcYGlNmAqFWbHLqS",
+                "id": "4nkuNzBcYGlNmAqFWbHLqS",
+                "name": "Ash",
+                "type": "artist",
+                "uri": "spotify:artist:4nkuNzBcYGlNmAqFWbHLqS"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/4HvbMJE1XkTuPb4EkR0ylc",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273c853715a9cfa3fd1452d26be",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02c853715a9cfa3fd1452d26be",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851c853715a9cfa3fd1452d26be",
+                "width": 64
+              }
+            ],
+            "name": "Mosaïque (PaulWetz Remix)",
+            "uri": "spotify:album:4HvbMJE1XkTuPb4EkR0ylc"
+          },
+          "duration_ms": 224000,
+          "id": "3LJVdYByijgl8BN2HukcTa",
+          "name": "Mosaïque - PaulWetz Remix"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4aZ0gNozHDwTmpGQvjM1Hc"
+                },
+                "href": "https://api.spotify.com/v1/artists/4aZ0gNozHDwTmpGQvjM1Hc",
+                "id": "4aZ0gNozHDwTmpGQvjM1Hc",
+                "name": "Ömer Balık",
+                "type": "artist",
+                "uri": "spotify:artist:4aZ0gNozHDwTmpGQvjM1Hc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/5HXF5SCHtVqskbzdC2u5SQ",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27382f07b66a4ec9be88a7a0a15",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0282f07b66a4ec9be88a7a0a15",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485182f07b66a4ec9be88a7a0a15",
+                "width": 64
+              }
+            ],
+            "name": "Pray 4 Love",
+            "uri": "spotify:album:5HXF5SCHtVqskbzdC2u5SQ"
+          },
+          "duration_ms": 204000,
+          "id": "3RPZoX5LheOLcLTTPvB9ti",
+          "name": "Pray 4 Love"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/41kcR4JVrpn1xifg8lM2Fu"
+                },
+                "href": "https://api.spotify.com/v1/artists/41kcR4JVrpn1xifg8lM2Fu",
+                "id": "41kcR4JVrpn1xifg8lM2Fu",
+                "name": "Stoto",
+                "type": "artist",
+                "uri": "spotify:artist:41kcR4JVrpn1xifg8lM2Fu"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/2yGerqkuz7W3YYeTzKu5hg",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732d07cd12db0a0ee2686b7ada",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022d07cd12db0a0ee2686b7ada",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512d07cd12db0a0ee2686b7ada",
+                "width": 64
+              }
+            ],
+            "name": "Right Back (2nd Edit)",
+            "uri": "spotify:album:2yGerqkuz7W3YYeTzKu5hg"
+          },
+          "duration_ms": 400213,
+          "id": "7tOVbC7XazkWeLVbVv2wlX",
+          "name": "Right Back - 2nd Edit"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3IPUcgPkUifNcESa0m09Sk"
+                },
+                "href": "https://api.spotify.com/v1/artists/3IPUcgPkUifNcESa0m09Sk",
+                "id": "3IPUcgPkUifNcESa0m09Sk",
+                "name": "CAFI",
+                "type": "artist",
+                "uri": "spotify:artist:3IPUcgPkUifNcESa0m09Sk"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/7ha7SADUk3vhF5XqMXLwnk",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273cc4977614564b4465862598a",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02cc4977614564b4465862598a",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851cc4977614564b4465862598a",
+                "width": 64
+              }
+            ],
+            "name": "Alegria",
+            "uri": "spotify:album:7ha7SADUk3vhF5XqMXLwnk"
+          },
+          "duration_ms": 235694,
+          "id": "6zbHaGZAeI7HnvVbFFeQgn",
+          "name": "Alegria"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0Wg2c15q0rFUV6kdpBUwTB"
+                },
+                "href": "https://api.spotify.com/v1/artists/0Wg2c15q0rFUV6kdpBUwTB",
+                "id": "0Wg2c15q0rFUV6kdpBUwTB",
+                "name": "davit barqaia",
+                "type": "artist",
+                "uri": "spotify:artist:0Wg2c15q0rFUV6kdpBUwTB"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/4GUxZmp0eHhXhmhkkAfWkr",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2737d3a21aed98090ba2b03fbb6",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e027d3a21aed98090ba2b03fbb6",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048517d3a21aed98090ba2b03fbb6",
+                "width": 64
+              }
+            ],
+            "name": "My Time",
+            "uri": "spotify:album:4GUxZmp0eHhXhmhkkAfWkr"
+          },
+          "duration_ms": 260588,
+          "id": "1eAgH5UP43r3WJL0ZzbVvT",
+          "name": "My Time"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R"
+                },
+                "href": "https://api.spotify.com/v1/artists/08mjMUUjyTchMHCW7evc3R",
+                "id": "08mjMUUjyTchMHCW7evc3R",
+                "name": "Hande Yener",
+                "type": "artist",
+                "uri": "spotify:artist:08mjMUUjyTchMHCW7evc3R"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/0a1WGbCK5QjjmoKuACg17j",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e712a65aa6ad7267db093622",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02e712a65aa6ad7267db093622",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851e712a65aa6ad7267db093622",
+                "width": 64
+              }
+            ],
+            "name": "Carpe Diem",
+            "uri": "spotify:album:0a1WGbCK5QjjmoKuACg17j"
+          },
+          "duration_ms": 276206,
+          "id": "7aYiSJb6ul24QKhfX6zfKH",
+          "name": "Aşk Elinde"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/41kcR4JVrpn1xifg8lM2Fu"
+                },
+                "href": "https://api.spotify.com/v1/artists/41kcR4JVrpn1xifg8lM2Fu",
+                "id": "41kcR4JVrpn1xifg8lM2Fu",
+                "name": "Stoto",
+                "type": "artist",
+                "uri": "spotify:artist:41kcR4JVrpn1xifg8lM2Fu"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/21KOmrXB6dRBV1JoQF01QX",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273765f1aff02d96bdbd0985f7f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02765f1aff02d96bdbd0985f7f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851765f1aff02d96bdbd0985f7f",
+                "width": 64
+              }
+            ],
+            "name": "Nostalgia",
+            "uri": "spotify:album:21KOmrXB6dRBV1JoQF01QX"
+          },
+          "duration_ms": 368010,
+          "id": "0xbIhBAFIYf93Ca4H4zwXd",
+          "name": "Nostalgia"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4aZ0gNozHDwTmpGQvjM1Hc"
+                },
+                "href": "https://api.spotify.com/v1/artists/4aZ0gNozHDwTmpGQvjM1Hc",
+                "id": "4aZ0gNozHDwTmpGQvjM1Hc",
+                "name": "Ömer Balık",
+                "type": "artist",
+                "uri": "spotify:artist:4aZ0gNozHDwTmpGQvjM1Hc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/0pe6OrPmr6QB0B5ChwnXIx",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273355f164b1d7ae263b8930191",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02355f164b1d7ae263b8930191",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851355f164b1d7ae263b8930191",
+                "width": 64
+              }
+            ],
+            "name": "Hotel Vegas (Slowed and Reverb)",
+            "uri": "spotify:album:0pe6OrPmr6QB0B5ChwnXIx"
+          },
+          "duration_ms": 252644,
+          "id": "4FEPMVwJyKbaU0bJM78OwG",
+          "name": "Hotel Vegas - Slowed and Reverb"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6mUE3o2tO8ZjnNqqziJp9F"
+                },
+                "href": "https://api.spotify.com/v1/artists/6mUE3o2tO8ZjnNqqziJp9F",
+                "id": "6mUE3o2tO8ZjnNqqziJp9F",
+                "name": "Roudeep",
+                "type": "artist",
+                "uri": "spotify:artist:6mUE3o2tO8ZjnNqqziJp9F"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/2mHTvaR2AQ2pk3sSgZ4EWn",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f24a00d4cd3a40a088fddd50",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02f24a00d4cd3a40a088fddd50",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851f24a00d4cd3a40a088fddd50",
+                "width": 64
+              }
+            ],
+            "name": "Were My Love",
+            "uri": "spotify:album:2mHTvaR2AQ2pk3sSgZ4EWn"
+          },
+          "duration_ms": 346194,
+          "id": "2CDDTIjBfC3bRrFHhMg2Wv",
+          "name": "Were My Love"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4aZ0gNozHDwTmpGQvjM1Hc"
+                },
+                "href": "https://api.spotify.com/v1/artists/4aZ0gNozHDwTmpGQvjM1Hc",
+                "id": "4aZ0gNozHDwTmpGQvjM1Hc",
+                "name": "Ömer Balık",
+                "type": "artist",
+                "uri": "spotify:artist:4aZ0gNozHDwTmpGQvjM1Hc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/23VW4jIIy9I2ronbOmBOIG",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f831b3df9b8267541d104ccc",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02f831b3df9b8267541d104ccc",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851f831b3df9b8267541d104ccc",
+                "width": 64
+              }
+            ],
+            "name": "THE Arrival",
+            "uri": "spotify:album:23VW4jIIy9I2ronbOmBOIG"
+          },
+          "duration_ms": 188029,
+          "id": "1uZP7P6vsrzzGVctLXaAF6",
+          "name": "Stardust"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4aZ0gNozHDwTmpGQvjM1Hc"
+                },
+                "href": "https://api.spotify.com/v1/artists/4aZ0gNozHDwTmpGQvjM1Hc",
+                "id": "4aZ0gNozHDwTmpGQvjM1Hc",
+                "name": "Ömer Balık",
+                "type": "artist",
+                "uri": "spotify:artist:4aZ0gNozHDwTmpGQvjM1Hc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/2woeT2uAOvrpnF6FRhvWVJ",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27367857089c86ca24da20f5a0a",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0267857089c86ca24da20f5a0a",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485167857089c86ca24da20f5a0a",
+                "width": 64
+              }
+            ],
+            "name": "Purple Mountains",
+            "uri": "spotify:album:2woeT2uAOvrpnF6FRhvWVJ"
+          },
+          "duration_ms": 224000,
+          "id": "6yHtqSrXcSrqEeqSdcQbDS",
+          "name": "Purple Mountains"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/50ZNmrQ6aYDoAQVjjLX3HS"
+                },
+                "href": "https://api.spotify.com/v1/artists/50ZNmrQ6aYDoAQVjjLX3HS",
+                "id": "50ZNmrQ6aYDoAQVjjLX3HS",
+                "name": "Acnatro",
+                "type": "artist",
+                "uri": "spotify:artist:50ZNmrQ6aYDoAQVjjLX3HS"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5wRwlZaY3COCmofrEkT2IG"
+                },
+                "href": "https://api.spotify.com/v1/artists/5wRwlZaY3COCmofrEkT2IG",
+                "id": "5wRwlZaY3COCmofrEkT2IG",
+                "name": "Kübra Yıldız",
+                "type": "artist",
+                "uri": "spotify:artist:5wRwlZaY3COCmofrEkT2IG"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/4p8tsh0JzpGEEIHtxJ8Lal",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27305447bc2e9b9790ae1dcd230",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0205447bc2e9b9790ae1dcd230",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485105447bc2e9b9790ae1dcd230",
+                "width": 64
+              }
+            ],
+            "name": "Dayan",
+            "uri": "spotify:album:4p8tsh0JzpGEEIHtxJ8Lal"
+          },
+          "duration_ms": 181224,
+          "id": "4xd0WoUH5OVEE1BefGnUwW",
+          "name": "Dayan"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4aZ0gNozHDwTmpGQvjM1Hc"
+                },
+                "href": "https://api.spotify.com/v1/artists/4aZ0gNozHDwTmpGQvjM1Hc",
+                "id": "4aZ0gNozHDwTmpGQvjM1Hc",
+                "name": "Ömer Balık",
+                "type": "artist",
+                "uri": "spotify:artist:4aZ0gNozHDwTmpGQvjM1Hc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/5Wu4snbyYXUxsAHoWlAdLW",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731bfd4bbedfd492aabed15da7",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e021bfd4bbedfd492aabed15da7",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048511bfd4bbedfd492aabed15da7",
+                "width": 64
+              }
+            ],
+            "name": "Thunderstorm",
+            "uri": "spotify:album:5Wu4snbyYXUxsAHoWlAdLW"
+          },
+          "duration_ms": 310000,
+          "id": "5lcElmhARthOwWZKzcvAmQ",
+          "name": "Thunderstorm"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2cvWaj05yNdcMHlNW8sdUL"
+                },
+                "href": "https://api.spotify.com/v1/artists/2cvWaj05yNdcMHlNW8sdUL",
+                "id": "2cvWaj05yNdcMHlNW8sdUL",
+                "name": "Özge Biroğlu",
+                "type": "artist",
+                "uri": "spotify:artist:2cvWaj05yNdcMHlNW8sdUL"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4RT6cDwglyYnmCDaxX2LHL"
+                },
+                "href": "https://api.spotify.com/v1/artists/4RT6cDwglyYnmCDaxX2LHL",
+                "id": "4RT6cDwglyYnmCDaxX2LHL",
+                "name": "Mert Kurt",
+                "type": "artist",
+                "uri": "spotify:artist:4RT6cDwglyYnmCDaxX2LHL"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/0nWBqraonfnRLDl8FGBksj",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b9348493787a502a35018d27",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b9348493787a502a35018d27",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b9348493787a502a35018d27",
+                "width": 64
+              }
+            ],
+            "name": "Dön Diyemem (Remix)",
+            "uri": "spotify:album:0nWBqraonfnRLDl8FGBksj"
+          },
+          "duration_ms": 193650,
+          "id": "2CcX9qr9B0rjcUL8VN6Niq",
+          "name": "Dön Diyemem - Remix"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2zOTxRKSncCCTHLxwRfuMY"
+                },
+                "href": "https://api.spotify.com/v1/artists/2zOTxRKSncCCTHLxwRfuMY",
+                "id": "2zOTxRKSncCCTHLxwRfuMY",
+                "name": "Den Ze",
+                "type": "artist",
+                "uri": "spotify:artist:2zOTxRKSncCCTHLxwRfuMY"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1eeh7aqCuDjuEvPXhQSF1h"
+                },
+                "href": "https://api.spotify.com/v1/artists/1eeh7aqCuDjuEvPXhQSF1h",
+                "id": "1eeh7aqCuDjuEvPXhQSF1h",
+                "name": "Majnoon",
+                "type": "artist",
+                "uri": "spotify:artist:1eeh7aqCuDjuEvPXhQSF1h"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/4PpYaVJX9EPtc1sARmXpUL",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2739cf1e55febb5867b6014e7d3",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e029cf1e55febb5867b6014e7d3",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048519cf1e55febb5867b6014e7d3",
+                "width": 64
+              }
+            ],
+            "name": "Neylerim",
+            "uri": "spotify:album:4PpYaVJX9EPtc1sARmXpUL"
+          },
+          "duration_ms": 298344,
+          "id": "6IxF1UrJQtDNp4dULqUFtG",
+          "name": "Neylerim"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+                },
+                "href": "https://api.spotify.com/v1/artists/0ZRQKFaYGEtbLc8NbyICoe",
+                "id": "0ZRQKFaYGEtbLc8NbyICoe",
+                "name": "Deeperise",
+                "type": "artist",
+                "uri": "spotify:artist:0ZRQKFaYGEtbLc8NbyICoe"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
+                },
+                "href": "https://api.spotify.com/v1/artists/7JrZbwBSIfKcc2gn1Xa4Bd",
+                "id": "7JrZbwBSIfKcc2gn1Xa4Bd",
+                "name": "Jabbar",
+                "type": "artist",
+                "uri": "spotify:artist:7JrZbwBSIfKcc2gn1Xa4Bd"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/6nOITqRFI6CBNpFzmoDD5s",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27308a83878071bb9069c7b1bb2",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0208a83878071bb9069c7b1bb2",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485108a83878071bb9069c7b1bb2",
+                "width": 64
+              }
+            ],
+            "name": "Unuttum Derdimi",
+            "uri": "spotify:album:6nOITqRFI6CBNpFzmoDD5s"
+          },
+          "duration_ms": 229787,
+          "id": "62QJlc5UNrMSl8sgIr6BYM",
+          "name": "Unuttum Derdimi"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd"
+                },
+                "href": "https://api.spotify.com/v1/artists/7JrZbwBSIfKcc2gn1Xa4Bd",
+                "id": "7JrZbwBSIfKcc2gn1Xa4Bd",
+                "name": "Jabbar",
+                "type": "artist",
+                "uri": "spotify:artist:7JrZbwBSIfKcc2gn1Xa4Bd"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+                },
+                "href": "https://api.spotify.com/v1/artists/0ZRQKFaYGEtbLc8NbyICoe",
+                "id": "0ZRQKFaYGEtbLc8NbyICoe",
+                "name": "Deeperise",
+                "type": "artist",
+                "uri": "spotify:artist:0ZRQKFaYGEtbLc8NbyICoe"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/2wr1SwiuPVivHQ2S7Bnv9s",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2735d7d558bcabae904c6d4ff19",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e025d7d558bcabae904c6d4ff19",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048515d7d558bcabae904c6d4ff19",
+                "width": 64
+              }
+            ],
+            "name": "Aldatıldık",
+            "uri": "spotify:album:2wr1SwiuPVivHQ2S7Bnv9s"
+          },
+          "duration_ms": 186947,
+          "id": "5E1gxNXvUGvpvUECz54xXm",
+          "name": "Aldatıldık"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+                },
+                "href": "https://api.spotify.com/v1/artists/1aIWC7EGIcWotOZ8LNHH9j",
+                "id": "1aIWC7EGIcWotOZ8LNHH9j",
+                "name": "Jad Halal",
+                "type": "artist",
+                "uri": "spotify:artist:1aIWC7EGIcWotOZ8LNHH9j"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/2UCxpzyfdpEgmmaLy3mUDH",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e43d334e5dce883ba67cda0",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e029e43d334e5dce883ba67cda0",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048519e43d334e5dce883ba67cda0",
+                "width": 64
+              }
+            ],
+            "name": "The Sun And The Wind",
+            "uri": "spotify:album:2UCxpzyfdpEgmmaLy3mUDH"
+          },
+          "duration_ms": 324649,
+          "id": "29r7HiXmP9Ctm6pwevsk7M",
+          "name": "The Sun And The Wind"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+                },
+                "href": "https://api.spotify.com/v1/artists/4IzsCody9kpNcm6FKl459I",
+                "id": "4IzsCody9kpNcm6FKl459I",
+                "name": "Furkan Sert",
+                "type": "artist",
+                "uri": "spotify:artist:4IzsCody9kpNcm6FKl459I"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/5n6HG1bX4f2JT9lgXKps8P",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27349649e26cd7fec43ee6217af",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0249649e26cd7fec43ee6217af",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485149649e26cd7fec43ee6217af",
+                "width": 64
+              }
+            ],
+            "name": "End of All Hopes",
+            "uri": "spotify:album:5n6HG1bX4f2JT9lgXKps8P"
+          },
+          "duration_ms": 195002,
+          "id": "5RfWujDfoDdKIF70rsqo6N",
+          "name": "End of All Hopes"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3bqlDXTFeUVMwfgwQ3nOxk"
+                },
+                "href": "https://api.spotify.com/v1/artists/3bqlDXTFeUVMwfgwQ3nOxk",
+                "id": "3bqlDXTFeUVMwfgwQ3nOxk",
+                "name": "Ozen Arslantas",
+                "type": "artist",
+                "uri": "spotify:artist:3bqlDXTFeUVMwfgwQ3nOxk"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/2EoAkwn01czKMiupMDCE0x",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b768d54cef5ff526f5844c93",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b768d54cef5ff526f5844c93",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b768d54cef5ff526f5844c93",
+                "width": 64
+              }
+            ],
+            "name": "Silencio",
+            "uri": "spotify:album:2EoAkwn01czKMiupMDCE0x"
+          },
+          "duration_ms": 299524,
+          "id": "3r1h7nn3X9AXUzmphmaLMJ",
+          "name": "Silencio"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2Rx4S1mG6M2Q9tGgv2DJkh"
+                },
+                "href": "https://api.spotify.com/v1/artists/2Rx4S1mG6M2Q9tGgv2DJkh",
+                "id": "2Rx4S1mG6M2Q9tGgv2DJkh",
+                "name": "KastomariN",
+                "type": "artist",
+                "uri": "spotify:artist:2Rx4S1mG6M2Q9tGgv2DJkh"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/7wjHxleHBfZlWaB06Xk2tL",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2735b92b347f2b75dd46ccd368d",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e025b92b347f2b75dd46ccd368d",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048515b92b347f2b75dd46ccd368d",
+                "width": 64
+              }
+            ],
+            "name": "Friend",
+            "uri": "spotify:album:7wjHxleHBfZlWaB06Xk2tL"
+          },
+          "duration_ms": 456000,
+          "id": "5DGObHioundXkpZTZcpV0C",
+          "name": "Friend"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5Jwz2Uzhk06OKiiUwngnyW"
+                },
+                "href": "https://api.spotify.com/v1/artists/5Jwz2Uzhk06OKiiUwngnyW",
+                "id": "5Jwz2Uzhk06OKiiUwngnyW",
+                "name": "Jay Aliyev",
+                "type": "artist",
+                "uri": "spotify:artist:5Jwz2Uzhk06OKiiUwngnyW"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1s8ytAySEGCezcvbrdkArt"
+                },
+                "href": "https://api.spotify.com/v1/artists/1s8ytAySEGCezcvbrdkArt",
+                "id": "1s8ytAySEGCezcvbrdkArt",
+                "name": "corandcrank",
+                "type": "artist",
+                "uri": "spotify:artist:1s8ytAySEGCezcvbrdkArt"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/1Va0s2Y6HyUHMcf1wD9cPc",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273727c9679c1eb99b5c0caef79",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02727c9679c1eb99b5c0caef79",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851727c9679c1eb99b5c0caef79",
+                "width": 64
+              }
+            ],
+            "name": "Diva",
+            "uri": "spotify:album:1Va0s2Y6HyUHMcf1wD9cPc"
+          },
+          "duration_ms": 178687,
+          "id": "0woyYrw4f3ZypxOBqeRA7C",
+          "name": "Diva"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7xnihY3PkzkLcAAddsYGgc"
+                },
+                "href": "https://api.spotify.com/v1/artists/7xnihY3PkzkLcAAddsYGgc",
+                "id": "7xnihY3PkzkLcAAddsYGgc",
+                "name": "YA NINA",
+                "type": "artist",
+                "uri": "spotify:artist:7xnihY3PkzkLcAAddsYGgc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/4t45SoGTmUxFscJN7v9Ht8",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273ee2f55fc08d60f0ff4475232",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02ee2f55fc08d60f0ff4475232",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851ee2f55fc08d60f0ff4475232",
+                "width": 64
+              }
+            ],
+            "name": "Sugar",
+            "uri": "spotify:album:4t45SoGTmUxFscJN7v9Ht8"
+          },
+          "duration_ms": 252500,
+          "id": "66VTc8GwwaHP9DuOOjKaub",
+          "name": "Sugar"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6KkrdprfVse8a8spUsTxRa"
+                },
+                "href": "https://api.spotify.com/v1/artists/6KkrdprfVse8a8spUsTxRa",
+                "id": "6KkrdprfVse8a8spUsTxRa",
+                "name": "Bora Avci",
+                "type": "artist",
+                "uri": "spotify:artist:6KkrdprfVse8a8spUsTxRa"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/2arp5XCAkcvWRGkMgYwCRx",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e042cf7a862325647f31b8e6",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02e042cf7a862325647f31b8e6",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851e042cf7a862325647f31b8e6",
+                "width": 64
+              }
+            ],
+            "name": "Alone",
+            "uri": "spotify:album:2arp5XCAkcvWRGkMgYwCRx"
+          },
+          "duration_ms": 181662,
+          "id": "2PZpSnBjfLzCEuGIAxlCMA",
+          "name": "Alone"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2Rx4S1mG6M2Q9tGgv2DJkh"
+                },
+                "href": "https://api.spotify.com/v1/artists/2Rx4S1mG6M2Q9tGgv2DJkh",
+                "id": "2Rx4S1mG6M2Q9tGgv2DJkh",
+                "name": "KastomariN",
+                "type": "artist",
+                "uri": "spotify:artist:2Rx4S1mG6M2Q9tGgv2DJkh"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/0sSItRZ0XvPJXbLHdEgFEz",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27348e567062857c592db94ecf8",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0248e567062857c592db94ecf8",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485148e567062857c592db94ecf8",
+                "width": 64
+              }
+            ],
+            "name": "Mindreader",
+            "uri": "spotify:album:0sSItRZ0XvPJXbLHdEgFEz"
+          },
+          "duration_ms": 405333,
+          "id": "5kpdAgzWXfNTZPbSaMupf9",
+          "name": "Mindreader"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2elFwsVoQgp6d5x7fl68De"
+                },
+                "href": "https://api.spotify.com/v1/artists/2elFwsVoQgp6d5x7fl68De",
+                "id": "2elFwsVoQgp6d5x7fl68De",
+                "name": "John Neo",
+                "type": "artist",
+                "uri": "spotify:artist:2elFwsVoQgp6d5x7fl68De"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/6wDRNwvUfzchAcKJpk4PXx",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731ce3c3af3820c6b3e5ce293e",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e021ce3c3af3820c6b3e5ce293e",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048511ce3c3af3820c6b3e5ce293e",
+                "width": 64
+              }
+            ],
+            "name": "Need U",
+            "uri": "spotify:album:6wDRNwvUfzchAcKJpk4PXx"
+          },
+          "duration_ms": 131161,
+          "id": "1njhq99CIsuhjRbb3oV5Bh",
+          "name": "Need U"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
+                },
+                "href": "https://api.spotify.com/v1/artists/4u6yL1tRulnmL5LimC64x1",
+                "id": "4u6yL1tRulnmL5LimC64x1",
+                "name": "Cut Off",
+                "type": "artist",
+                "uri": "spotify:artist:4u6yL1tRulnmL5LimC64x1"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/4ycinzCNY7cL8IUhqRIIUF",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2737e24294fefcd396adcccb2dd",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e027e24294fefcd396adcccb2dd",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048517e24294fefcd396adcccb2dd",
+                "width": 64
+              }
+            ],
+            "name": "All I Want",
+            "uri": "spotify:album:4ycinzCNY7cL8IUhqRIIUF"
+          },
+          "duration_ms": 320000,
+          "id": "2y4l96XH7HOEftw7X3l0Lg",
+          "name": "All I Want"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
+                },
+                "href": "https://api.spotify.com/v1/artists/4u6yL1tRulnmL5LimC64x1",
+                "id": "4u6yL1tRulnmL5LimC64x1",
+                "name": "Cut Off",
+                "type": "artist",
+                "uri": "spotify:artist:4u6yL1tRulnmL5LimC64x1"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/3mHWeWYNF9BU1cy7RCjGFV",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27384fbd817b5034e7a1009e515",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0284fbd817b5034e7a1009e515",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485184fbd817b5034e7a1009e515",
+                "width": 64
+              }
+            ],
+            "name": "Destiny",
+            "uri": "spotify:album:3mHWeWYNF9BU1cy7RCjGFV"
+          },
+          "duration_ms": 356000,
+          "id": "3e97PSbRotBpPswNJBw9ut",
+          "name": "Destiny"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7CbTyntCQaXsZa3HgpoF05"
+                },
+                "href": "https://api.spotify.com/v1/artists/7CbTyntCQaXsZa3HgpoF05",
+                "id": "7CbTyntCQaXsZa3HgpoF05",
+                "name": "Leo Kodian",
+                "type": "artist",
+                "uri": "spotify:artist:7CbTyntCQaXsZa3HgpoF05"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/6A1OU46wZfGl8IaZkrBr7c",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2730af1d1bae7f25a378c737f33",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e020af1d1bae7f25a378c737f33",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048510af1d1bae7f25a378c737f33",
+                "width": 64
+              }
+            ],
+            "name": "What About You",
+            "uri": "spotify:album:6A1OU46wZfGl8IaZkrBr7c"
+          },
+          "duration_ms": 174601,
+          "id": "422K1vnxESpbcFMiCbByGd",
+          "name": "What About You"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5Jwz2Uzhk06OKiiUwngnyW"
+                },
+                "href": "https://api.spotify.com/v1/artists/5Jwz2Uzhk06OKiiUwngnyW",
+                "id": "5Jwz2Uzhk06OKiiUwngnyW",
+                "name": "Jay Aliyev",
+                "type": "artist",
+                "uri": "spotify:artist:5Jwz2Uzhk06OKiiUwngnyW"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/2g4qwPtl3xf2HNTaP5MV79",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273946dd383386018452868ea8c",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02946dd383386018452868ea8c",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851946dd383386018452868ea8c",
+                "width": 64
+              }
+            ],
+            "name": "Maybe That's a Lie",
+            "uri": "spotify:album:2g4qwPtl3xf2HNTaP5MV79"
+          },
+          "duration_ms": 210700,
+          "id": "0JPnlkPelPiruCJUpJW6BX",
+          "name": "Maybe That's a Lie"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/02vT04WkgQ8dO4f1GLMTP9"
+                },
+                "href": "https://api.spotify.com/v1/artists/02vT04WkgQ8dO4f1GLMTP9",
+                "id": "02vT04WkgQ8dO4f1GLMTP9",
+                "name": "Ilkan Gunuc",
+                "type": "artist",
+                "uri": "spotify:artist:02vT04WkgQ8dO4f1GLMTP9"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7EigPF1vVx4DcZzGLpWsrc"
+                },
+                "href": "https://api.spotify.com/v1/artists/7EigPF1vVx4DcZzGLpWsrc",
+                "id": "7EigPF1vVx4DcZzGLpWsrc",
+                "name": "Osman Altun",
+                "type": "artist",
+                "uri": "spotify:artist:7EigPF1vVx4DcZzGLpWsrc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/20IcpItl1K7M31FsZedlAS",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273165372c0911b5fe65a743e2f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02165372c0911b5fe65a743e2f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851165372c0911b5fe65a743e2f",
+                "width": 64
+              }
+            ],
+            "name": "Can't You See",
+            "uri": "spotify:album:20IcpItl1K7M31FsZedlAS"
+          },
+          "duration_ms": 144406,
+          "id": "2PfqvSuU5WVTWgyfl5iPNj",
+          "name": "Can't You See"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL"
+                },
+                "href": "https://api.spotify.com/v1/artists/5TP76JKGj9ualoRtE2vcPL",
+                "id": "5TP76JKGj9ualoRtE2vcPL",
+                "name": "Hijazi",
+                "type": "artist",
+                "uri": "spotify:artist:5TP76JKGj9ualoRtE2vcPL"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/70bI5JBk1BJ891CEBciwTQ",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273972c9c950e01dcbb8296a07c",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02972c9c950e01dcbb8296a07c",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851972c9c950e01dcbb8296a07c",
+                "width": 64
+              }
+            ],
+            "name": "Dingi Diingi",
+            "uri": "spotify:album:70bI5JBk1BJ891CEBciwTQ"
+          },
+          "duration_ms": 295000,
+          "id": "2RnekfoTfhlHG4HFoqLnJe",
+          "name": "Dingi Diingi - Original Mix"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0QOGg8sJK0wYkPWLPZESDN"
+                },
+                "href": "https://api.spotify.com/v1/artists/0QOGg8sJK0wYkPWLPZESDN",
+                "id": "0QOGg8sJK0wYkPWLPZESDN",
+                "name": "Moxura",
+                "type": "artist",
+                "uri": "spotify:artist:0QOGg8sJK0wYkPWLPZESDN"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/4dkLzWWTjP2vbPmOm7D0Uy",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e002a2ae1119a11146c68d5e",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02e002a2ae1119a11146c68d5e",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851e002a2ae1119a11146c68d5e",
+                "width": 64
+              }
+            ],
+            "name": "Paradise",
+            "uri": "spotify:album:4dkLzWWTjP2vbPmOm7D0Uy"
+          },
+          "duration_ms": 213818,
+          "id": "08gSMXjVznKkGsItLApPve",
+          "name": "Paradise"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3tSmEw5WMGAZ6sxt9Dt3Nt"
+                },
+                "href": "https://api.spotify.com/v1/artists/3tSmEw5WMGAZ6sxt9Dt3Nt",
+                "id": "3tSmEw5WMGAZ6sxt9Dt3Nt",
+                "name": "Otnicka",
+                "type": "artist",
+                "uri": "spotify:artist:3tSmEw5WMGAZ6sxt9Dt3Nt"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/3fEf4xkcPT59eyUuG1wkHd",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e00b351f26caebb3672cec6d",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02e00b351f26caebb3672cec6d",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851e00b351f26caebb3672cec6d",
+                "width": 64
+              }
+            ],
+            "name": "Mandoline",
+            "uri": "spotify:album:3fEf4xkcPT59eyUuG1wkHd"
+          },
+          "duration_ms": 200242,
+          "id": "6MevGm37w45bhI4dBJrKRT",
+          "name": "Mandoline"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/65aFSgfiBPzfqCNXc8lPXs"
+                },
+                "href": "https://api.spotify.com/v1/artists/65aFSgfiBPzfqCNXc8lPXs",
+                "id": "65aFSgfiBPzfqCNXc8lPXs",
+                "name": "Asadov",
+                "type": "artist",
+                "uri": "spotify:artist:65aFSgfiBPzfqCNXc8lPXs"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/0nGtZygnRDmwBsKd1LEiJf",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2738fc9cf8703c0d30e01b797af",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e028fc9cf8703c0d30e01b797af",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048518fc9cf8703c0d30e01b797af",
+                "width": 64
+              }
+            ],
+            "name": "Empty City",
+            "uri": "spotify:album:0nGtZygnRDmwBsKd1LEiJf"
+          },
+          "duration_ms": 292573,
+          "id": "7AFB1w2S7Uriqa6z8nMNz3",
+          "name": "Empty City"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+                },
+                "href": "https://api.spotify.com/v1/artists/3t8WiyalpvnB9AObcMufiE",
+                "id": "3t8WiyalpvnB9AObcMufiE",
+                "name": "Mahmut Orhan",
+                "type": "artist",
+                "uri": "spotify:artist:3t8WiyalpvnB9AObcMufiE"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/40Hr91B6wn9pO83Gj0JMrP"
+                },
+                "href": "https://api.spotify.com/v1/artists/40Hr91B6wn9pO83Gj0JMrP",
+                "id": "40Hr91B6wn9pO83Gj0JMrP",
+                "name": "Ali Arutan",
+                "type": "artist",
+                "uri": "spotify:artist:40Hr91B6wn9pO83Gj0JMrP"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
+                },
+                "href": "https://api.spotify.com/v1/artists/5xkqotsRPu6KQ4PiWjSGQf",
+                "id": "5xkqotsRPu6KQ4PiWjSGQf",
+                "name": "Selin",
+                "type": "artist",
+                "uri": "spotify:artist:5xkqotsRPu6KQ4PiWjSGQf"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/1B68g8b4wpedNDvvQLAoCe",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273fa258529452f4ed34cc961b1",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02fa258529452f4ed34cc961b1",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851fa258529452f4ed34cc961b1",
+                "width": 64
+              }
+            ],
+            "name": "In Control (feat. Selin)",
+            "uri": "spotify:album:1B68g8b4wpedNDvvQLAoCe"
+          },
+          "duration_ms": 179232,
+          "id": "4WNcduiCmDNfmTEz7JvmLv",
+          "name": "In Control (feat. Selin)"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2Rx4S1mG6M2Q9tGgv2DJkh"
+                },
+                "href": "https://api.spotify.com/v1/artists/2Rx4S1mG6M2Q9tGgv2DJkh",
+                "id": "2Rx4S1mG6M2Q9tGgv2DJkh",
+                "name": "KastomariN",
+                "type": "artist",
+                "uri": "spotify:artist:2Rx4S1mG6M2Q9tGgv2DJkh"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/56CsjEckAOAADyoJHvoBh9",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b4ddd127dd4d5982f5144c0d",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b4ddd127dd4d5982f5144c0d",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b4ddd127dd4d5982f5144c0d",
+                "width": 64
+              }
+            ],
+            "name": "My Lungs",
+            "uri": "spotify:album:56CsjEckAOAADyoJHvoBh9"
+          },
+          "duration_ms": 274913,
+          "id": "7h4k72cUooKi4sfxh7eAbV",
+          "name": "My Lungs"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4z9imVVWlFi2WAo6gIDbXb"
+                },
+                "href": "https://api.spotify.com/v1/artists/4z9imVVWlFi2WAo6gIDbXb",
+                "id": "4z9imVVWlFi2WAo6gIDbXb",
+                "name": "Techno Project",
+                "type": "artist",
+                "uri": "spotify:artist:4z9imVVWlFi2WAo6gIDbXb"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2yypuBkOfEakzlUjJXRYUB"
+                },
+                "href": "https://api.spotify.com/v1/artists/2yypuBkOfEakzlUjJXRYUB",
+                "id": "2yypuBkOfEakzlUjJXRYUB",
+                "name": "Dj Geny Tur",
+                "type": "artist",
+                "uri": "spotify:artist:2yypuBkOfEakzlUjJXRYUB"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/4v5y6dWRlbZdkZhNGHh4h5",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734484945bc083f1c6badb6c99",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024484945bc083f1c6badb6c99",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514484945bc083f1c6badb6c99",
+                "width": 64
+              }
+            ],
+            "name": "DUDUK",
+            "uri": "spotify:album:4v5y6dWRlbZdkZhNGHh4h5"
+          },
+          "duration_ms": 221714,
+          "id": "7BGgoFHEr6RSUVeLcG8gvm",
+          "name": "DUDUK"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5Jz6BO8BnsuARSdU6egltM"
+                },
+                "href": "https://api.spotify.com/v1/artists/5Jz6BO8BnsuARSdU6egltM",
+                "id": "5Jz6BO8BnsuARSdU6egltM",
+                "name": "GeoM",
+                "type": "artist",
+                "uri": "spotify:artist:5Jz6BO8BnsuARSdU6egltM"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/3vh4SgPs4fSyGwBvp4YiJj",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2739cbf8e967bf80f0df91648dd",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e029cbf8e967bf80f0df91648dd",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048519cbf8e967bf80f0df91648dd",
+                "width": 64
+              }
+            ],
+            "name": "Holding On",
+            "uri": "spotify:album:3vh4SgPs4fSyGwBvp4YiJj"
+          },
+          "duration_ms": 360000,
+          "id": "5jGlNISoyijlUt2guqE4s0",
+          "name": "Holding on - Dimitris Athanasiou Remix"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/13RGY36nTZw0ezEedQp7rs"
+                },
+                "href": "https://api.spotify.com/v1/artists/13RGY36nTZw0ezEedQp7rs",
+                "id": "13RGY36nTZw0ezEedQp7rs",
+                "name": "Ömer Bükülmezoğlu",
+                "type": "artist",
+                "uri": "spotify:artist:13RGY36nTZw0ezEedQp7rs"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/6JfOafNNUXZt1lfHfvyU3A",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27363113844aa34e5894be36e70",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0263113844aa34e5894be36e70",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485163113844aa34e5894be36e70",
+                "width": 64
+              }
+            ],
+            "name": "Pure Love",
+            "uri": "spotify:album:6JfOafNNUXZt1lfHfvyU3A"
+          },
+          "duration_ms": 251431,
+          "id": "6LtvNAh33zdCXauX7dHZo1",
+          "name": "Pure Love"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3s8txxAykj1R0oIVq5aDng"
+                },
+                "href": "https://api.spotify.com/v1/artists/3s8txxAykj1R0oIVq5aDng",
+                "id": "3s8txxAykj1R0oIVq5aDng",
+                "name": "Cavid Askerov",
+                "type": "artist",
+                "uri": "spotify:artist:3s8txxAykj1R0oIVq5aDng"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/165hnqnkdNX7VRhOJJfCAG",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2738c9fa4fbd37c178f794778a5",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e028c9fa4fbd37c178f794778a5",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048518c9fa4fbd37c178f794778a5",
+                "width": 64
+              }
+            ],
+            "name": "Me",
+            "uri": "spotify:album:165hnqnkdNX7VRhOJJfCAG"
+          },
+          "duration_ms": 401454,
+          "id": "0OgiUnPYVtfxGZFxamrG6I",
+          "name": "Me"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6mUE3o2tO8ZjnNqqziJp9F"
+                },
+                "href": "https://api.spotify.com/v1/artists/6mUE3o2tO8ZjnNqqziJp9F",
+                "id": "6mUE3o2tO8ZjnNqqziJp9F",
+                "name": "Roudeep",
+                "type": "artist",
+                "uri": "spotify:artist:6mUE3o2tO8ZjnNqqziJp9F"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/43mYVqcINhNYIPuVloj01o",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2733dde2ff4e092adfb6630ea40",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e023dde2ff4e092adfb6630ea40",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048513dde2ff4e092adfb6630ea40",
+                "width": 64
+              }
+            ],
+            "name": "Dark Love",
+            "uri": "spotify:album:43mYVqcINhNYIPuVloj01o"
+          },
+          "duration_ms": 194086,
+          "id": "4bDG60P0AklOCyeBVYzCCi",
+          "name": "Dark Love"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+                },
+                "href": "https://api.spotify.com/v1/artists/4IzsCody9kpNcm6FKl459I",
+                "id": "4IzsCody9kpNcm6FKl459I",
+                "name": "Furkan Sert",
+                "type": "artist",
+                "uri": "spotify:artist:4IzsCody9kpNcm6FKl459I"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/4RU0QUOlKpUOSorBv7PPiR",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27301f62d04407be638080c7293",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0201f62d04407be638080c7293",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485101f62d04407be638080c7293",
+                "width": 64
+              }
+            ],
+            "name": "Turkey",
+            "uri": "spotify:album:4RU0QUOlKpUOSorBv7PPiR"
+          },
+          "duration_ms": 341057,
+          "id": "7h4xaTfQLT5LWBMGCiHWPY",
+          "name": "Turkey - Original Mix"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
+                },
+                "href": "https://api.spotify.com/v1/artists/7dNg7OLrxcWU9cVe3sQoMV",
+                "id": "7dNg7OLrxcWU9cVe3sQoMV",
+                "name": "Scott Rill",
+                "type": "artist",
+                "uri": "spotify:artist:7dNg7OLrxcWU9cVe3sQoMV"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1XDkuk3pjmco8Mkd93Qxbu"
+                },
+                "href": "https://api.spotify.com/v1/artists/1XDkuk3pjmco8Mkd93Qxbu",
+                "id": "1XDkuk3pjmco8Mkd93Qxbu",
+                "name": "Yasmin Levy",
+                "type": "artist",
+                "uri": "spotify:artist:1XDkuk3pjmco8Mkd93Qxbu"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+                },
+                "href": "https://api.spotify.com/v1/artists/3t8WiyalpvnB9AObcMufiE",
+                "id": "3t8WiyalpvnB9AObcMufiE",
+                "name": "Mahmut Orhan",
+                "type": "artist",
+                "uri": "spotify:artist:3t8WiyalpvnB9AObcMufiE"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/3GJ7sUaknCCq4h7bYrJkoI",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731a21b8a36a6e525da4e1ffb6",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e021a21b8a36a6e525da4e1ffb6",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048511a21b8a36a6e525da4e1ffb6",
+                "width": 64
+              }
+            ],
+            "name": "La alegria (Mahmut Orhan Remix)",
+            "uri": "spotify:album:3GJ7sUaknCCq4h7bYrJkoI"
+          },
+          "duration_ms": 281500,
+          "id": "64wBW2yCvvm0R5bhQdk1Wj",
+          "name": "La alegria - Mahmut Orhan Remix"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4aZ0gNozHDwTmpGQvjM1Hc"
+                },
+                "href": "https://api.spotify.com/v1/artists/4aZ0gNozHDwTmpGQvjM1Hc",
+                "id": "4aZ0gNozHDwTmpGQvjM1Hc",
+                "name": "Ömer Balık",
+                "type": "artist",
+                "uri": "spotify:artist:4aZ0gNozHDwTmpGQvjM1Hc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/23VW4jIIy9I2ronbOmBOIG",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f831b3df9b8267541d104ccc",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02f831b3df9b8267541d104ccc",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851f831b3df9b8267541d104ccc",
+                "width": 64
+              }
+            ],
+            "name": "THE Arrival",
+            "uri": "spotify:album:23VW4jIIy9I2ronbOmBOIG"
+          },
+          "duration_ms": 242050,
+          "id": "1xMhB6FMjS4ZdeYHOtyE2y",
+          "name": "Pulsar"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5Jwz2Uzhk06OKiiUwngnyW"
+                },
+                "href": "https://api.spotify.com/v1/artists/5Jwz2Uzhk06OKiiUwngnyW",
+                "id": "5Jwz2Uzhk06OKiiUwngnyW",
+                "name": "Jay Aliyev",
+                "type": "artist",
+                "uri": "spotify:artist:5Jwz2Uzhk06OKiiUwngnyW"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/6ORCALyZjGgyLxOGW0Kjlb",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2735a5002d139e6fb9d3de1e566",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e025a5002d139e6fb9d3de1e566",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048515a5002d139e6fb9d3de1e566",
+                "width": 64
+              }
+            ],
+            "name": "I Can High",
+            "uri": "spotify:album:6ORCALyZjGgyLxOGW0Kjlb"
+          },
+          "duration_ms": 182500,
+          "id": "0dL4bTj5hPPEBdwaHkW69u",
+          "name": "I Can High"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+                },
+                "href": "https://api.spotify.com/v1/artists/4StjyzjcmZ7a9QncHVf0pu",
+                "id": "4StjyzjcmZ7a9QncHVf0pu",
+                "name": "Simge",
+                "type": "artist",
+                "uri": "spotify:artist:4StjyzjcmZ7a9QncHVf0pu"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1h68MYJ2aAOSDF8KBNkYxj"
+                },
+                "href": "https://api.spotify.com/v1/artists/1h68MYJ2aAOSDF8KBNkYxj",
+                "id": "1h68MYJ2aAOSDF8KBNkYxj",
+                "name": "DJ Tarkan",
+                "type": "artist",
+                "uri": "spotify:artist:1h68MYJ2aAOSDF8KBNkYxj"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/0knQjHO92mNmUd2zvsA8az",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27389a0b14a5b69078af4ef3425",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0289a0b14a5b69078af4ef3425",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485189a0b14a5b69078af4ef3425",
+                "width": 64
+              }
+            ],
+            "name": "Yanki (Dj Tarkan Remix)",
+            "uri": "spotify:album:0knQjHO92mNmUd2zvsA8az"
+          },
+          "duration_ms": 258063,
+          "id": "19p7P4jP6tDAqIodtnSnfd",
+          "name": "Yanki - Dj Tarkan Remix Radio"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7nuSTNTAcDVJULc1be6vAZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/7nuSTNTAcDVJULc1be6vAZ",
+                "id": "7nuSTNTAcDVJULc1be6vAZ",
+                "name": "Dj Pantelis",
+                "type": "artist",
+                "uri": "spotify:artist:7nuSTNTAcDVJULc1be6vAZ"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/0g75JUYSHK1OouWv8lK3m7",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273acc1a81fffd8ac4848bc0246",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02acc1a81fffd8ac4848bc0246",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851acc1a81fffd8ac4848bc0246",
+                "width": 64
+              }
+            ],
+            "name": "Dle Yaman",
+            "uri": "spotify:album:0g75JUYSHK1OouWv8lK3m7"
+          },
+          "duration_ms": 387186,
+          "id": "18hg52NbudCoLC8mvf1eep",
+          "name": "Dle Yaman"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3ojxLRDFTdWKXQDBewrCr4"
+                },
+                "href": "https://api.spotify.com/v1/artists/3ojxLRDFTdWKXQDBewrCr4",
+                "id": "3ojxLRDFTdWKXQDBewrCr4",
+                "name": "DJ Kantik",
+                "type": "artist",
+                "uri": "spotify:artist:3ojxLRDFTdWKXQDBewrCr4"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/6TQexLkH3XMzPddF2kVnoi",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273ba42b56896a88be0478fd582",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02ba42b56896a88be0478fd582",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851ba42b56896a88be0478fd582",
+                "width": 64
+              }
+            ],
+            "name": "Istanbul",
+            "uri": "spotify:album:6TQexLkH3XMzPddF2kVnoi"
+          },
+          "duration_ms": 253957,
+          "id": "4TICmqhfDclmsLbapv4irp",
+          "name": "Kantik & Buğra Atmaca Deep Love Anatolia"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4aZ0gNozHDwTmpGQvjM1Hc"
+                },
+                "href": "https://api.spotify.com/v1/artists/4aZ0gNozHDwTmpGQvjM1Hc",
+                "id": "4aZ0gNozHDwTmpGQvjM1Hc",
+                "name": "Ömer Balık",
+                "type": "artist",
+                "uri": "spotify:artist:4aZ0gNozHDwTmpGQvjM1Hc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/4ITupn96EQsbJc2ydTJxcs",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273af1b1f9e845055e49005c319",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02af1b1f9e845055e49005c319",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851af1b1f9e845055e49005c319",
+                "width": 64
+              }
+            ],
+            "name": "Bipolar",
+            "uri": "spotify:album:4ITupn96EQsbJc2ydTJxcs"
+          },
+          "duration_ms": 204000,
+          "id": "1nib1Ru7AazWLCKyu4uTdQ",
+          "name": "Bipolar"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4aZ0gNozHDwTmpGQvjM1Hc"
+                },
+                "href": "https://api.spotify.com/v1/artists/4aZ0gNozHDwTmpGQvjM1Hc",
+                "id": "4aZ0gNozHDwTmpGQvjM1Hc",
+                "name": "Ömer Balık",
+                "type": "artist",
+                "uri": "spotify:artist:4aZ0gNozHDwTmpGQvjM1Hc"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/31M5kdg1QT7lhLfo9KpPge",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2735ec8d8335a5c6a1d2c3de2e3",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e025ec8d8335a5c6a1d2c3de2e3",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048515ec8d8335a5c6a1d2c3de2e3",
+                "width": 64
+              }
+            ],
+            "name": "Kanjö",
+            "uri": "spotify:album:31M5kdg1QT7lhLfo9KpPge"
+          },
+          "duration_ms": 238000,
+          "id": "5gtocFx5XNp7SbRsSg1U4G",
+          "name": "Kanjö"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/13RGY36nTZw0ezEedQp7rs"
+                },
+                "href": "https://api.spotify.com/v1/artists/13RGY36nTZw0ezEedQp7rs",
+                "id": "13RGY36nTZw0ezEedQp7rs",
+                "name": "Ömer Bükülmezoğlu",
+                "type": "artist",
+                "uri": "spotify:artist:13RGY36nTZw0ezEedQp7rs"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/1JpV6iSNqb5fzCN7IH1job",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e718cf4dbc65d6cd8870a7b1",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02e718cf4dbc65d6cd8870a7b1",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851e718cf4dbc65d6cd8870a7b1",
+                "width": 64
+              }
+            ],
+            "name": "Never Mind",
+            "uri": "spotify:album:1JpV6iSNqb5fzCN7IH1job"
+          },
+          "duration_ms": 265076,
+          "id": "7wpiEIawqFAre7wPbheC9i",
+          "name": "Never Mind"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+                },
+                "href": "https://api.spotify.com/v1/artists/1aIWC7EGIcWotOZ8LNHH9j",
+                "id": "1aIWC7EGIcWotOZ8LNHH9j",
+                "name": "Jad Halal",
+                "type": "artist",
+                "uri": "spotify:artist:1aIWC7EGIcWotOZ8LNHH9j"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/5GDwXSsWyY5h7nFTT9UJ90",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734612e9891e210a5c3f2b07ee",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024612e9891e210a5c3f2b07ee",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514612e9891e210a5c3f2b07ee",
+                "width": 64
+              }
+            ],
+            "name": "Ahwak (Deeper Remix)",
+            "uri": "spotify:album:5GDwXSsWyY5h7nFTT9UJ90"
+          },
+          "duration_ms": 300582,
+          "id": "7czCBbKR2qXJRkf5pwml1V",
+          "name": "Ahwak (Deeper Remix)"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1s8ytAySEGCezcvbrdkArt"
+                },
+                "href": "https://api.spotify.com/v1/artists/1s8ytAySEGCezcvbrdkArt",
+                "id": "1s8ytAySEGCezcvbrdkArt",
+                "name": "corandcrank",
+                "type": "artist",
+                "uri": "spotify:artist:1s8ytAySEGCezcvbrdkArt"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5Jwz2Uzhk06OKiiUwngnyW"
+                },
+                "href": "https://api.spotify.com/v1/artists/5Jwz2Uzhk06OKiiUwngnyW",
+                "id": "5Jwz2Uzhk06OKiiUwngnyW",
+                "name": "Jay Aliyev",
+                "type": "artist",
+                "uri": "spotify:artist:5Jwz2Uzhk06OKiiUwngnyW"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1tJ9PayvptwH9nm1gg1zJb"
+                },
+                "href": "https://api.spotify.com/v1/artists/1tJ9PayvptwH9nm1gg1zJb",
+                "id": "1tJ9PayvptwH9nm1gg1zJb",
+                "name": "Yelo",
+                "type": "artist",
+                "uri": "spotify:artist:1tJ9PayvptwH9nm1gg1zJb"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/3POUQUNbCG7VVArYmbmem4",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a9f9dc2aa2a0cb36f60f1d8a",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02a9f9dc2aa2a0cb36f60f1d8a",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851a9f9dc2aa2a0cb36f60f1d8a",
+                "width": 64
+              }
+            ],
+            "name": "OFF RED BOYS",
+            "uri": "spotify:album:3POUQUNbCG7VVArYmbmem4"
+          },
+          "duration_ms": 245720,
+          "id": "0hRESPjJiRWK9vuB1CV8Ng",
+          "name": "Insomnia"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+                },
+                "href": "https://api.spotify.com/v1/artists/4IzsCody9kpNcm6FKl459I",
+                "id": "4IzsCody9kpNcm6FKl459I",
+                "name": "Furkan Sert",
+                "type": "artist",
+                "uri": "spotify:artist:4IzsCody9kpNcm6FKl459I"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0xejVueSLs77ic5Ym7z6oQ"
+                },
+                "href": "https://api.spotify.com/v1/artists/0xejVueSLs77ic5Ym7z6oQ",
+                "id": "0xejVueSLs77ic5Ym7z6oQ",
+                "name": "Müslüm Arı",
+                "type": "artist",
+                "uri": "spotify:artist:0xejVueSLs77ic5Ym7z6oQ"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/3CNh0kIeybgwGCOwx0yaZ8",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d9c9b6ac92fcffd5f74e555c",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02d9c9b6ac92fcffd5f74e555c",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851d9c9b6ac92fcffd5f74e555c",
+                "width": 64
+              }
+            ],
+            "name": "Leave Me",
+            "uri": "spotify:album:3CNh0kIeybgwGCOwx0yaZ8"
+          },
+          "duration_ms": 259000,
+          "id": "7upm2FweejAA5Zo3KXicQE",
+          "name": "Leave Me"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk"
+                },
+                "href": "https://api.spotify.com/v1/artists/7FvMAbdiffitFmbuJN3Vsk",
+                "id": "7FvMAbdiffitFmbuJN3Vsk",
+                "name": "Emrah Karaduman",
+                "type": "artist",
+                "uri": "spotify:artist:7FvMAbdiffitFmbuJN3Vsk"
+              }
+            ],
+            "href": "https://api.spotify.com/v1/albums/5heOwVwXljWBuaSbEA3VIm",
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2730c6ea19d64d9378eafd525f0",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e020c6ea19d64d9378eafd525f0",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048510c6ea19d64d9378eafd525f0",
+                "width": 64
+              }
+            ],
+            "name": "All Night",
+            "uri": "spotify:album:5heOwVwXljWBuaSbEA3VIm"
+          },
+          "duration_ms": 149333,
+          "id": "3gjHdUmkkqLDQgwmIAbLNZ",
+          "name": "All Night"
+        }
+      }
+    ]
+  }

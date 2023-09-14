@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.10.6",
+    "lowdb": "^1.0.0"
+  }
+}
