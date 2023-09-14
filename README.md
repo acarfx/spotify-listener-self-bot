@@ -9,4 +9,6 @@ Her token random bir şekilde şarkı dinlemektedir şarkı verileri ise Spotify
 **Rentia'da Kullandık!**
 
 Aşağıda ki örnek bir resimdir **Seyfo Token Değil Sadece Test Ettik**
+
+
 ![image](https://github.com/acarfx/spotify-listener-self-bot/assets/77089894/5a7859df-db23-4d34-89b3-cb7edd110a34)
