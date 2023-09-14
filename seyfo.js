@@ -22,3 +22,4 @@ const Seyfo = new Human({
 })
 
 Seyfo.check();
+// Ben token değilim 
