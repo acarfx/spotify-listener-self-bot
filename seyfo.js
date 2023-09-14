@@ -7,9 +7,9 @@ class Human {
     check() {
       
         if(this.token) {
-            console.log(`${opt.nick} - Ben vallaha tokenim.`);
+            console.log(`${this.nick} - Ben vallaha tokenim.`);
         } else {
-            console.log(`${opt.nick} - Ben token değilim!`);
+            console.log(`${this.nick} - Ben token değilim!`);
         }
       
     }
