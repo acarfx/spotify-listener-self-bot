@@ -93,7 +93,6 @@ spotify-listener-self-bot/
 ├── Databases/             # Created at runtime (last channel per user)
 ├── settings.json          # Tokens and channel IDs
 ├── index.js               # Main loop, RPC, reconnect logic
-├── main.js               # Test stub (not used by the listener)
 └── package.json
 ```
 
